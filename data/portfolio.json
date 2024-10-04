@@ -1,0 +1,179 @@
+{
+  "name": "Bruce Lan",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Bruce Lan - curious",
+  "headerTaglineThree": "Full Stack Web Developer",
+  "headerTaglineFour": " based in Toronto, Canada.",
+  "showCursor": true,
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/bruce647"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/guanxing-lan/"
+    },
+    { "id": "5", "title": "Email", "link": "bruce000101@gmail.com" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Complete Travel Platform",
+      "description": "Designed and developed a full-featured travel platform that supports travel package browsing, flight and hotel booking, and order management.",
+      "details": [
+        {
+          "title": "Payment Integration",
+          "des": "Integrated Stripe for secure and seamless payment processing, enabling efficient transaction handling across the platform."
+        },
+        {
+          "title": "API Integration",
+          "des": "Managed the integration of over 100 third-party APIs, expanding the platform's services to offer diverse travel options. Implemented robust API handling for smooth communication and reliability."
+        },
+        {
+          "title": "User Authentication",
+          "des": "Secured user authentication with JSON Web Tokens (JWT), protecting sensitive information during login, registration, and API access."
+        },
+        {
+          "title": "Performance Optimization",
+          "des": "Enhanced platform performance through a custom caching strategy, improving system responsiveness and scalability."
+        },
+        {
+          "title": "Frontend Development",
+          "des": "Built a responsive and user-friendly interface using React.js and Ant Design (Antd), ensuring an intuitive experience across various devices."
+        },
+        {
+          "title": "Backend Architecture",
+          "des": "Developed a modular, scalable backend system using Express and Node.js, allowing for easy maintenance and future platform expansion."
+        }
+      ],
+      "imageSrc": "https://i.postimg.cc/xCb8JVNT/Image-20241004170030.png",
+      "tags": [
+        "React 17",
+        "Ant Design",
+        "Express",
+        "MongoDB",
+        "Node.js",
+        "JWT",
+        "Stripe",
+        "RESTful APIs"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Portal",
+      "description": "Contributed to the development and maintenance of front-end features in a microservices architecture.",
+      "imageSrc": "https://i.postimg.cc/25t3SS6K/Image-20241004170034.png",
+      "details": [
+        {
+          "title": "UI & Performance Refactoring",
+          "des": "Refactored core front-end features to improve the user interface, enhance performance, and increase code readability."
+        },
+        {
+          "title": "Reusable Components",
+          "des": "Developed reusable UI components for an internal UI library, ensuring consistent design and efficient development workflows."
+        },
+        {
+          "title": "GraphQL Integration",
+          "des": "Collaborated in updating GraphQL queries with TypeScript, optimizing front-end data retrieval and display."
+        },
+        {
+          "title": "Payment Integration",
+          "des": "Assisted in the front-end implementation for Stripe subscription checkout systems, contributing to seamless user experiences for payment processing."
+        }
+      ],
+      "tags": ["React 17", "Ant Design", "Express", "MongoDB", "Node.js"]
+    },
+    {
+      "id": "3",
+      "title": "Crypto Tracker",
+      "description": "Developed a frontend interface and data processing system for a cryptocurrency market data platform, utilizing modern technologies to deliver real-time insights.",
+      "imageSrc": "https://i.postimg.cc/s2xvzhVW/Image-20241004170002.png",
+      "details": [
+        {
+          "title": "Real-Time Data Integration",
+          "des": "Pulled and processed real-time cryptocurrency market data from CoinGecko, transforming and storing the data in a MongoDB database for efficient access."
+        },
+        {
+          "title": "Backend Development",
+          "des": "Built the backend using Express to handle data processing and API integration, ensuring smooth and secure communication with the MongoDB database."
+        },
+        {
+          "title": "Frontend Development",
+          "des": "Implemented the frontend using React.js and Ant Design, following modern standards and best practices to provide a responsive and user-friendly interface."
+        },
+        {
+          "title": "Data Display",
+          "des": "Designed the user interface to dynamically display up-to-date crypto market information, giving users easy access to key data points."
+        }
+      ],
+      "tags": ["React 17", "Ant Design", "Express", "MongoDB", "Node.js"]
+    },
+    {
+      "id": "4",
+      "title": "Art Generator",
+      "description": "Utilized P5.js to generate abstract art in the browser using JavaScript.",
+      "imageSrc": "https://i.postimg.cc/2y7zhkkm/Image-20241004170725.png",
+      "details": [
+        {
+          "title": "User Experience",
+          "des": "Implemented a user-friendly interface, providing a smooth and intuitive experience for users."
+        },
+        {
+          "title": "Performance Optimization",
+          "des": "Optimized the performance of the art generation process, improving the response time and user experience."
+        }
+      ],
+      "tags": ["JavaScript", "React 17", "P5.js"]
+    }
+  ],
+
+  "aboutpara": "Hello, I'm an experienced software engineer with over four years in developing scalable and secure applications. I work with TypeScript and modern frameworks like React and Node.js. My experience covers both front-end and back-end development, and I'm familiar with microservices architecture, cloud platforms such as AWS, and relational databases like PostgreSQL.💻 Outside of work, I enjoy reading books, and I recently finished The Great Gatsby.📚 I also have a fondness for sci-fi movies.🎬 I appreciate the stories they tell and the ideas they explore. I'm dedicated to building solutions that have a meaningful impact.",
+  "resume": {
+    "tagline": "👋  I'm a software engineer, with design mind.",
+    "description": "While I'm dedicated to building scalable and secure applications, I also prioritize design and user experience, ensuring that my work is not only functional but also user-friendly. I am committed to making the development process smoother and more enjoyable for everyone involved.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "Aug 2024 - Present",
+        "type": "Full Time",
+        "position": "Full Stack Developer at Family Holiday",
+        "bullets": "Integreation strategy, Design, Development"
+      },
+      {
+        "id": "2",
+        "dates": "Jan 2022 - Sep 2023",
+        "type": "Full Time",
+        "position": "Web Developer at Rarecircles",
+        "bullets": "Agile methodology, Web3, Payment Integration, UI Development"
+      },
+      {
+        "id": "3",
+        "dates": "Apr 2021 - Jul 2021",
+        "type": "Full Time",
+        "position": "Web Designer at Mosaic North America",
+        "bullets": "CMS platform"
+      },
+      {
+        "id": "3",
+        "dates": "Jan 2019 - Apr 2021",
+        "type": "Full Time",
+        "position": "Software Engineer at Somoplay Inc.",
+        "bullets": "Web development"
+      }
+    ],
+    "education": {
+      "universityName": "Seneca College",
+      "universityDate": "2019-2023",
+      "universityPara": "Computer Programming and Analysis"
+    },
+    "languages": ["Javascript", "TypeScript", "Python", "Go"],
+    "frameworks": ["React", "Vue", "NodeJs"],
+    "others": ["Figma", "AdobeXD", "AWS"]
+  }
+}

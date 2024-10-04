@@ -1,0 +1,21 @@
+.fixed {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000; /* Ensure the button appears above other elements */
+}
+
+button {
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 50%; /* Round button */
+  border: none;
+  outline: none;
+  cursor: pointer;
+  transition: ease-out 0.3s ease;
+}
+
+/* Optional: Style for the button text or icon */
+button span {
+  color: white; /* Change color for better visibility */
+}
