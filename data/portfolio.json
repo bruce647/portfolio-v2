@@ -33,7 +33,7 @@
         },
         {
           "title": "API Integration",
-          "des": "Managed the integration of over 100 third-party APIs, expanding the platform's services to offer diverse travel options. Implemented robust API handling for smooth communication and reliability."
+          "des": "Managed the integration of over 100 third-party APIs, expanding the platform's services to offer diverse travel options."
         },
         {
           "title": "User Authentication",
@@ -84,7 +84,7 @@
         },
         {
           "title": "Payment Integration",
-          "des": "Assisted in the front-end implementation for Stripe subscription checkout systems, contributing to seamless user experiences for payment processing."
+          "des": "Assisted in the front-end implementation for Stripe subscription checkout systems, contributing to seamless payment processing."
         }
       ],
       "tags": ["React 17", "Ant Design", "Express", "MongoDB", "Node.js"]
@@ -97,15 +97,15 @@
       "details": [
         {
           "title": "Real-Time Data Integration",
-          "des": "Pulled and processed real-time cryptocurrency market data from CoinGecko, transforming and storing the data in a MongoDB database for efficient access."
+          "des": "Pulled and processed real-time cryptocurrency market data from CoinGecko, storing the data in a MongoDB database for efficient access."
         },
         {
           "title": "Backend Development",
-          "des": "Built the backend using Express to handle data processing and API integration, ensuring smooth and secure communication with the MongoDB database."
+          "des": "Built the backend using Express to handle data processing and API integration, ensuring smooth communication with the MongoDB database."
         },
         {
           "title": "Frontend Development",
-          "des": "Implemented the frontend using React.js and Ant Design, following modern standards and best practices to provide a responsive and user-friendly interface."
+          "des": "Implemented the frontend using React.js and Ant Design, following modern standards to provide a responsive and user-friendly interface."
         },
         {
           "title": "Data Display",
