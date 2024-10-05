@@ -20,7 +20,7 @@ const WorkCard = ({ img, name, description, details, tags }) => {
             <ul className="mt-4 text-base list-disc pl-5 space-y-2">
               {details.map((item, index) => (
                 <li key={index}>
-                  <span className="font-medium">{item.title}:</span>
+                  <span className="font-medium">{item.title}:</span>{item.des}
                 </li>
               ))}
             </ul>
