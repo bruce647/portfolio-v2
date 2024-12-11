@@ -22,6 +22,39 @@
     { "id": "5", "title": "Email", "link": "bruce000101@gmail.com" }
   ],
   "projects": [
+      {
+      "id": "0",
+      "title": "CRM Platform for Order and Client Management",
+      "description": "Developed a comprehensive CRM platform to optimize client interaction, order tracking, and financial data analysis",
+      "details": [
+        {
+          "title": "Order and Client Management",
+          "des": "Designed tools for efficiently managing client profiles, tracking sales orders, and organizing communication in a centralized dashboard."
+        },
+        {
+          "title": "Order Assignment and Tracking",
+          "des": "Implemented automated and manual order assignment features, ensuring seamless task delegation and real-time tracking of order progress."
+        },
+        {
+          "title": "Financial Data Analysis",
+          "des": "Developed advanced stats and reporting tools to analyze financial order data, providing actionable insights for revenue and performance tracking."
+        },
+        {
+          "title": "User Authentication",
+          "des": "ecured access using JSON Web Tokens (JWT), protecting client and order data during login, registration, and API access."
+        }
+      ],
+      "imageSrc": "https://i.ibb.co/z6dgQxC/c49b6a87665cba24c7809fda12baee3.png",
+      "tags": [
+        "React 19",
+        "Shadcn",
+        "Express",
+        "MongoDB",
+        "Node.js",
+        "JWT",
+        "RESTful APIs"
+      ]
+    },
     {
       "id": "1",
       "title": "Complete Travel Platform",
