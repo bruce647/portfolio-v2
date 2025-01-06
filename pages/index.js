@@ -65,8 +65,6 @@ export default function Home() {
           handleAboutScroll={handleAboutScroll}
         />
 
-        <ParticleBackground />
-
         <div className="laptop:mt-20 mt-10">
           <div className="mt-5">
             <h1
