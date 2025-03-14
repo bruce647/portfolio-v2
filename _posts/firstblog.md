@@ -147,7 +147,7 @@ RAG combines the power of LLMs with the ability to retrieve and reference specif
 - Enhance prompts with retrieved information
 - Generate responses based on your specific data
 
-![RAG Architecture Diagram](https://images.unsplash.com/photo-1654475677192-2d869348bb4c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+![RAG Architecture Diagram](https://images.ctfassets.net/c63hsprlvlya/IacLLeOBR5WCvdCPqKuff/6860b5cc464c4f54703a2befa3f706b4/nextjs3.webp)
 
 ## Production Best Practices
 
