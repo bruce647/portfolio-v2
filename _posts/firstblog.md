@@ -5,7 +5,7 @@ tagline: Practical integration of Large Language Models in modern web developmen
 preview: >-
   Learn how to integrate powerful AI capabilities into your Next.js applications. This guide covers everything from basic setup to advanced techniques like streaming responses, RAG implementation, and production best practices for combining the power of Next.js with modern Large Language Models.
 image: >-
-  https://images.unsplash.com/photo-1656188505561-19f1a1b6cda8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80
+  https://images.unsplash.com/photo-1717501217941-ea11df0605f2?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 # Supercharging Next.js Applications with AI
 
